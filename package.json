@@ -1,5 +1,5 @@
 {
- "name": "common-validator-js",
+  "name": "common-validator-js",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,6 +16,5 @@
     "url": "https://github.com/Rahulkishanm/common-validator-js/issues"
   },
   "homepage": "https://github.com/Rahulkishanm/common-validator-js#readme",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
