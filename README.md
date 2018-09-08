@@ -5,7 +5,7 @@ This libray is still under development
 
 ## Installation and Usage
 
-### Server-side usage
+### NPM
 
 Install the library with `npm i common-validator-js`
 
