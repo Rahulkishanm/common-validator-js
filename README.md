@@ -1,5 +1,6 @@
 # common-validator-js
-####This libray is still under development
+
+**UNDER DEVELOPMENT**
 
 **This library validates any Objects.**
 
